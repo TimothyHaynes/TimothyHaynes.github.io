@@ -1,0 +1,342 @@
+
+
+header {
+	background-color: #254441;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	text-align: center;
+	font-size: 1.4em;
+
+
+}
+
+h1 {
+	font-weight: bold;
+	font-family: 'Indie Flower', cursive;
+  margin: 0 auto;
+	padding-bottom: .25em;
+	font-size: 3em;
+	border-bottom: 2px solid white;
+}
+
+h2 {
+	font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 2em;
+	color: white;
+	text-align: center;
+}
+
+h4 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 2em;
+	color: white;
+}
+
+nav {
+	margin-top: 12px;
+}
+
+nav a {
+	background-size: contain;
+	position: relative;
+	display: inline-block;
+	width: 20%;
+	height: 7%;
+	padding: 5px;
+	margin: 0 auto;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	font-size: 1.5em;
+	font-family: 'Poiret One', cursive;
+
+}
+
+nav a:hover {
+	display: inline-block;
+	position: relative;
+	background-color: black;
+	border-radius: 30px;
+}
+
+body {
+	background-color: #DB504A;
+	margin: 0;
+}
+
+p {
+	color: white;
+	font-family: Arial;
+	font-size: 1em;
+	line-height: 150%;
+}
+
+body img {
+	width: 640px;
+	height: 480px;
+	display: block;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 30px;
+
+}
+
+
+.about {
+	color: white;
+	font-family: Arial;
+	padding: 10px;
+}
+
+.about p {
+	line-height: 150%;
+}
+
+.container_porfolio {
+	display: inline-block;
+	max-height: 100%;
+	max-width: 100%;
+	color: white;
+}
+
+
+.top1_portfolio {
+	width: 25%;
+	height: 25%;
+	display: inline-block;
+	border: 2px solid white;
+	border-radius: 40px;
+	padding: 10px;
+	margin: 2% 2%;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+
+}
+
+.top2_portfolio {
+	width: 25%;
+	height: 25%;
+	display: inline-block;
+	border: 2px solid white;
+	border-radius: 40px;
+	padding: 10px;
+	margin: 2% 2%;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+
+.top3_portfolio {
+	width: 25%;
+	height: 25%;
+	display: inline-block;
+	border: 2px solid white;
+	border-radius: 40px;
+	padding: 10px;
+	margin: 2% 2%;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+
+.middle1_portfolio {
+	width: 25%;
+	height: 25%;
+	display: inline-block;
+	border: 2px solid white;
+	border-radius: 40px;
+	padding: 10px;
+	margin: 2% 2%;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+
+.middle2_portfolio {
+	width: 25%;
+	height: 25%;
+	display: inline-block;
+	border: 2px solid white;
+	border-radius: 40px;
+	padding: 10px;
+	margin: 2% 2%;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+
+.middle3_portfolio {
+	width: 25%;
+	height: 25%;
+	display: inline-block;
+	border: 2px solid white;
+	border-radius: 40px;
+	padding: 10px;
+	margin: 2% 2%;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+
+.bottom1_portfolio {
+	width: 25%;
+	height: 25%;
+	display: inline-block;
+	border: 2px solid white;
+	border-radius: 40px;
+	padding: 10px;
+	margin: 2% 2%;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+
+.bottom2_portfolio {
+	width: 25%;
+	height: 25%;
+	display: inline-block;
+	border: 2px solid white;
+	border-radius: 40px;
+	padding: 10px;
+	margin: 2% 2%;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+
+.bottom3_portfolio {
+	width: 25%;
+	height: 25%;
+	display: inline-block;
+	border: 2px solid white;
+	border-radius: 40px;
+	padding: 10px;
+	margin: 2% 2%;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+
+#container_portfolio img {
+	width: 100%;
+	height: 100%;
+	border-radius: 20px;
+}
+
+#first_site {
+	color: white;
+	font-size: 2em;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bold;
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 20px;
+
+
+}
+
+ul {
+	color: white;
+	display: inline-block;
+}
+
+.resume_grid {
+	width: 100%;
+	height: 100%;
+}
+
+/*#objective {
+	position: relative;
+	vertical-align: top;
+	width: 49.1%;
+	height: 20em;
+	margin-left: 5px;
+	display: inline-block;
+
+	background-color: #4BC8DB;
+	border-radius: 40px;
+
+}*/
+
+
+#qualifications {
+	vertical-align: top;
+	margin-left: 1em;
+	width: 48%;
+	height: 20em;
+	display: inline-block;
+
+	/*background-color:#A33BDB;*/
+	border-radius: 40px;
+}
+
+#experience {
+	vertical-align: top;
+	width: 48%;
+	height: 20em;
+	display: inline-block;
+
+	/*background-color: #A3EA96;*/
+	border-radius: 40px;
+}
+
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 900px) {
+	.top1_portfolio, .top2_portfolio, .top3_portfolio, .middle1_portfolio, .middle2_portfolio, .middle3_portfolio, .bottom1_portfolio, .bottom2_portfolio, .bottom3_portfolio {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 80%;
+	}
+
+	body img {
+		width: 480px;
+		height: 360px;
+	}
+
+
+}
+
+@media (max-width: 600px) {
+	nav a {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 80%;
+
+	}
+
+	body img {
+		width: 75%;
+		height: 51%;
+	}
+
+	h1 {
+		display: block;
+		font-size: 2em;
+			}
+
+	h2 {
+		font-size:
+	}
+
+	h3 {
+		font-size: 1.75em;
+	}
+
+	h4 {
+		font-size: 1.5em;
+		text-align: center;
+	}
+}
